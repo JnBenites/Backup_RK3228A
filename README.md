@@ -6,4 +6,6 @@ Chip name: RK3228A -> CDEKW46028 2212
 
 Operating system backup 
 The installation is done with the RKDevTool program
+```
 https://androidfilehost.com/?fid=10620683726822078487
+```
